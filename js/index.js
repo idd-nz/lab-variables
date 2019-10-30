@@ -94,4 +94,4 @@ celTemp = (fahTemp - 32) * (5/9)
 
 console.log(`${tempCelsius}°C is ${tempFahrenheit}°F.`)
 console.log(`${fahTemp}°F is ${celTemp}°C`)
-
+         // --------------------------------------------- //
