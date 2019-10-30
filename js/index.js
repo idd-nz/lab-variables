@@ -25,6 +25,7 @@
 // console.log(` Hi ${custumerName}, your balance is 💰 ${bitCoin}`)
 //          // --------------------------------------------- //
 
+// In class assignment //
 
 //EXERCISE 1: The Fortune Teller
 //Why pay a fortune teller when you can just program your fortune yourself? Store the following into variables: job title, geographic location, annual salary, company name. Output your fortune to the screen like so: "You will be a X in Y, making $N for Z."
